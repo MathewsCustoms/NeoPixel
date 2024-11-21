@@ -45,3 +45,5 @@ def tunnel_drip_rainbow(fade_steps, max_distance, ring_interval, swirl_speed):
         # Increment the frame counter
         current_frame += 1
         time.sleep(0.05)
+
+#tunnel_drip_rainbow(fade_steps=10, max_distance=NUM_ROWS + NUM_COLS, ring_interval=4, swirl_speed=3) use this to call the function
